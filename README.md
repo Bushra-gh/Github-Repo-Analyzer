@@ -22,8 +22,8 @@
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/Bushra-gh/Github_Repo_Analyzer.git
-cd Github_Repo_Analyzer
+git clone https://github.com/Bushra-gh/Github-Repo-Analyzer.git
+cd Github-Repo-Analyzer
 ```
 
 2. **(Optional) Create a Virtual Environment:**
